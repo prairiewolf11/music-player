@@ -34,7 +34,7 @@ $music_player = 'flash';
             -Album 2
         -ARTIST-N
             -Album-N
-    
+需要在library新建Music文件夹并上传音乐文件
 <p>
     
 </p>
